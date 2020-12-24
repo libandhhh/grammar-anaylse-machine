@@ -1,0 +1,17 @@
+#E i+i*i# TK
+#KT i+i*i# FM
+#KMF i+i*i# i
+#KMi i+i*i# i匹配成功
+#KM +i*i# $
+#K +i*i# +TK
+#KT+ +i*i# +匹配成功
+#KT i*i# FM 
+#KMF i*i# i
+#KMi i*i# i匹配成功
+#KM *i# *FM
+#KMF* *i# *匹配成功
+#KMi i# i
+#KMi i# i匹配成功
+#KM # $
+#K # $
+Accept
